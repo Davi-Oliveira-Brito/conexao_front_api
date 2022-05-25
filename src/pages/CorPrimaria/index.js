@@ -13,7 +13,7 @@ export function index() {
             setResposta('Sim, é uma cor Primaria');
         }
         else{
-            setResposta('Não, não é uma cor');
+            setResposta('Não, não é uma cor essa porra');
         }
 
     }
