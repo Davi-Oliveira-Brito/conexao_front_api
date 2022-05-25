@@ -13,7 +13,8 @@ export function index() {
             setResposta('Sim, é uma cor Primaria');
         }
         else{
-            setResposta('Não, não é uma cor primaria');
+            setResposta('Não, não é uma cor');
+
         }
 
     }
