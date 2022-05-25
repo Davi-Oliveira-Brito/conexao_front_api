@@ -14,7 +14,6 @@ export function index() {
         }
         else{
             setResposta('Não, não é uma cor');
-
         }
 
     }
